@@ -1,1 +1,6 @@
-
+pynq
+opencv-python
+numpy
+ultralytics
+matplotlib
+pillow
